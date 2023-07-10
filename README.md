@@ -8,10 +8,10 @@ Cursei 9 anos de inglês na Wizard by Pearson, e recentemente, completei um mês
 
 ### 🌱 Cursos e skills:
 Docker Fundamentals - Bootcamp DIO. <br/>
-Cursando Java - Udemy/ Santander Coders.<br />
+Java Completo - Udemy/ Santander Coders.<br />
 SQL - Udemy. <br/>
 HTML e CSS básicos - FreeCodeCamp.<br />
-Cursando Power BI - Data Science Academy. <br />
+Power BI - Data Science Academy. <br />
 
 ### 📫 Para me contatar:
 https://www.linkedin.com/in/bruna-machado-gravina/ <br />
