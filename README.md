@@ -11,7 +11,7 @@ Docker Fundamentals - Bootcamp DIO. <br/>
 Java Completo - Udemy/ Santander Coders.<br />
 SQL - Udemy. <br/>
 HTML e CSS básicos - FreeCodeCamp.<br />
-Power BI - Data Science Academy. <br />
+Python para Ciência de Dados - DIO <br />
 
 ### 📫 Para me contatar:
 https://www.linkedin.com/in/bruna-machado-gravina/ <br />
