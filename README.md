@@ -3,7 +3,7 @@
 ### 🔭 Em busca de estágio! 🔭
 
 Me chamo Bruna Machado Gravina e sou aspirante a back-end Dev! Atualmente mais familiarizada com Java. <br />
-Estudo Analise e desenvolvimento de sistemas na Universidade Anhembi Morumbi (segundo semestre).<br />
+Estudo Analise e desenvolvimento de sistemas na Universidade Anhembi Morumbi (terceiro semestre).<br />
 Cursei 9 anos de inglês na Wizard by Pearson, e recentemente, completei um mês de intercâmbio no Canadá, cursando Inglês na Saint George International College Canada. 
 
 ### 🌱 Cursos e skills:
