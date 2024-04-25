@@ -18,7 +18,7 @@ CyberSecurity Essentials - Cisco. </br>
 https://www.linkedin.com/in/bruna-machado-gravina/ <br />
 brunagravina23@outlook.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGravina&hide_progress=false)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGravina&layout=compact&theme=dracula)
 
 ###pt-br### 
 ### Oie! 👋
