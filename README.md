@@ -2,16 +2,20 @@
 
 ### 🔭 Learning More and More! 🔭
 
-My name is Bruna and I'm an intern Java developer! <br />
-Current studying System Development and Analysis at Anhembi Morumbi (4th semester). <br />
+My name is Bruna and I'm an intern BackEnd developer! <br />
+Current studying System Development and Analysis at Anhembi Morumbi (5th semester). <br />
 I speak english fluently, completed 9 years of study at Wizard by Pearson and I had the opportunity to go to Canada and study english at Saint George International College.
 
-### 🌱 Courses and skills:
-Docker Fundamentals - Bootcamp DIO. <br/>
-Java - Alura.<br />
-SQL - Udemy. <br/>
-Basic HTML, CSS and JS - FreeCodeCamp. <br />
-Python for Data Sciene - DIO. <br />
+### 🌱 Skills:
+Docker  <br/>
+Java <br />
+SQL <br/>
+HTML e CSS <br />
+Python <br />
+Django </br>
+SpringBoot </br>
+Kotlin </br>
+FastAPI </br>
 CyberSecurity Essentials - Cisco. </br>
 
 ### 📫 Get in touch! :
@@ -25,16 +29,20 @@ brunagravina23@outlook.com
 
 ### 🔭 Aprendendo mais e mais! 🔭
 
-Me chamo Bruna Machado Gravina e sou estagiária de desenvolvimento Java! <br />
-Estudo Analise e desenvolvimento de sistemas na Universidade Anhembi Morumbi (quarto semestre).<br />
+Me chamo Bruna Machado Gravina e sou estagiária de desenvolvimento BackEnd! <br />
+Estudo Analise e desenvolvimento de sistemas na Universidade Anhembi Morumbi (quinto semestre).<br />
 Cursei 9 anos de inglês na Wizard by Pearson, e recentemente, completei um mês de intercâmbio no Canadá, cursando Inglês na Saint George International College Canada. 
 
-### 🌱 Cursos e skills:
-Docker Fundamentals - Bootcamp DIO. <br/>
-Java - Alura.<br />
-SQL - Udemy. <br/>
-HTML e CSS básicos - FreeCodeCamp. <br />
-Python para Ciência de Dados - DIO. <br />
+### 🌱 Skills:
+Docker  <br/>
+Java <br />
+SQL <br/>
+HTML e CSS <br />
+Python <br />
+Django </br>
+SpringBoot </br>
+Kotlin </br>
+FastAPI </br>
 CyberSecurity Essentials - Cisco. </br>
 
 ### 📫 Para me contatar:
