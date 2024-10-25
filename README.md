@@ -18,7 +18,7 @@ Kotlin </br>
 FastAPI </br>
 CyberSecurity Essentials - Cisco. </br>
 
-### 📫 Get in touch! :
+### 📫 Get in touch :
 https://www.linkedin.com/in/bruna-machado-gravina/ <br />
 brunagravina23@outlook.com
 
