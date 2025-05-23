@@ -2,7 +2,7 @@
 
 ### 🔭 Learning More and More! 🔭
 
-My name is Bruna and I'm an intern BackEnd developer! <br />
+My name is Bruna and I'm a fullstack developer! <br />
 System Development and Analysis Degree and currently pursuing a MBA in Software Engineering. <br />
 I speak english fluently, completed 9 years of study at Wizard by Pearson and I had the opportunity to go to Canada and study english at Saint George International College.
 
@@ -29,7 +29,7 @@ brunagravina23@outlook.com
 
 ### 🔭 Aprendendo mais e mais! 🔭
 
-Me chamo Bruna Machado Gravina e sou estagiária de desenvolvimento BackEnd! <br />
+Me chamo Bruna Machado Gravina e sou dev fullstack. <br />
 Formada em Análise e desenvolvimento de sistemas, atualmente fazendo MBA em Engenharia de Software na USP. <br />
 Cursei 9 anos de inglês na Wizard by Pearson, e recentemente, completei um mês de intercâmbio no Canadá, cursando Inglês na Saint George International College Canada. 
 
